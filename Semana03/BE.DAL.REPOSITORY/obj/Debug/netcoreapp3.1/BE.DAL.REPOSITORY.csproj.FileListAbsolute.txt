@@ -1,0 +1,13 @@
+C:\xampp\htdocs\Proyecto\WEBAVANZADA\Semana03\BE.DAL.REPOSITORY\bin\Debug\netcoreapp3.1\BE.DAL.REPOSITORY.deps.json
+C:\xampp\htdocs\Proyecto\WEBAVANZADA\Semana03\BE.DAL.REPOSITORY\bin\Debug\netcoreapp3.1\BE.DAL.REPOSITORY.runtimeconfig.json
+C:\xampp\htdocs\Proyecto\WEBAVANZADA\Semana03\BE.DAL.REPOSITORY\bin\Debug\netcoreapp3.1\BE.DAL.REPOSITORY.runtimeconfig.dev.json
+C:\xampp\htdocs\Proyecto\WEBAVANZADA\Semana03\BE.DAL.REPOSITORY\bin\Debug\netcoreapp3.1\BE.DAL.REPOSITORY.dll
+C:\xampp\htdocs\Proyecto\WEBAVANZADA\Semana03\BE.DAL.REPOSITORY\bin\Debug\netcoreapp3.1\BE.DAL.REPOSITORY.pdb
+C:\xampp\htdocs\Proyecto\WEBAVANZADA\Semana03\BE.DAL.REPOSITORY\obj\Debug\netcoreapp3.1\BE.DAL.REPOSITORY.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\Proyecto\WEBAVANZADA\Semana03\BE.DAL.REPOSITORY\obj\Debug\netcoreapp3.1\BE.DAL.REPOSITORY.AssemblyInfoInputs.cache
+C:\xampp\htdocs\Proyecto\WEBAVANZADA\Semana03\BE.DAL.REPOSITORY\obj\Debug\netcoreapp3.1\BE.DAL.REPOSITORY.AssemblyInfo.cs
+C:\xampp\htdocs\Proyecto\WEBAVANZADA\Semana03\BE.DAL.REPOSITORY\obj\Debug\netcoreapp3.1\BE.DAL.REPOSITORY.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\Proyecto\WEBAVANZADA\Semana03\BE.DAL.REPOSITORY\obj\Debug\netcoreapp3.1\BE.DAL.REPOSITORY.dll
+C:\xampp\htdocs\Proyecto\WEBAVANZADA\Semana03\BE.DAL.REPOSITORY\obj\Debug\netcoreapp3.1\BE.DAL.REPOSITORY.pdb
+C:\xampp\htdocs\Proyecto\WEBAVANZADA\Semana03\BE.DAL.REPOSITORY\obj\Debug\netcoreapp3.1\BE.DAL.REPOSITORY.genruntimeconfig.cache
+C:\xampp\htdocs\Proyecto\WEBAVANZADA\Semana03\BE.DAL.REPOSITORY\obj\Debug\netcoreapp3.1\BE.DAL.REPOSITORY.csproj.AssemblyReference.cache

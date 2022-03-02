@@ -1,0 +1,13 @@
+C:\xampp\htdocs\Proyecto\WEBAVANZADA\Semana03\BE.DAL.DO\bin\Debug\netcoreapp3.1\BE.DAL.DO.deps.json
+C:\xampp\htdocs\Proyecto\WEBAVANZADA\Semana03\BE.DAL.DO\bin\Debug\netcoreapp3.1\BE.DAL.DO.runtimeconfig.json
+C:\xampp\htdocs\Proyecto\WEBAVANZADA\Semana03\BE.DAL.DO\bin\Debug\netcoreapp3.1\BE.DAL.DO.runtimeconfig.dev.json
+C:\xampp\htdocs\Proyecto\WEBAVANZADA\Semana03\BE.DAL.DO\bin\Debug\netcoreapp3.1\BE.DAL.DO.dll
+C:\xampp\htdocs\Proyecto\WEBAVANZADA\Semana03\BE.DAL.DO\bin\Debug\netcoreapp3.1\BE.DAL.DO.pdb
+C:\xampp\htdocs\Proyecto\WEBAVANZADA\Semana03\BE.DAL.DO\obj\Debug\netcoreapp3.1\BE.DAL.DO.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\Proyecto\WEBAVANZADA\Semana03\BE.DAL.DO\obj\Debug\netcoreapp3.1\BE.DAL.DO.AssemblyInfoInputs.cache
+C:\xampp\htdocs\Proyecto\WEBAVANZADA\Semana03\BE.DAL.DO\obj\Debug\netcoreapp3.1\BE.DAL.DO.AssemblyInfo.cs
+C:\xampp\htdocs\Proyecto\WEBAVANZADA\Semana03\BE.DAL.DO\obj\Debug\netcoreapp3.1\BE.DAL.DO.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\Proyecto\WEBAVANZADA\Semana03\BE.DAL.DO\obj\Debug\netcoreapp3.1\BE.DAL.DO.dll
+C:\xampp\htdocs\Proyecto\WEBAVANZADA\Semana03\BE.DAL.DO\obj\Debug\netcoreapp3.1\BE.DAL.DO.pdb
+C:\xampp\htdocs\Proyecto\WEBAVANZADA\Semana03\BE.DAL.DO\obj\Debug\netcoreapp3.1\BE.DAL.DO.genruntimeconfig.cache
+C:\xampp\htdocs\Proyecto\WEBAVANZADA\Semana03\BE.DAL.DO\obj\Debug\netcoreapp3.1\BE.DAL.DO.csproj.AssemblyReference.cache
