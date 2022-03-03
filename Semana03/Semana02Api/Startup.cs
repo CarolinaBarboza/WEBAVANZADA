@@ -31,7 +31,6 @@ namespace Semana02Api
             Configuration.GetConnectionString("GoodConnection")));
             
             //Register the Swagger generator, defining 1 or more Swagger documents services.AddSwaggerGen();
-
             services.AddControllers();
         }
 
@@ -44,8 +43,6 @@ namespace Semana02Api
             }
             // Enable middleware to serve generated Swagger as a JSON endpoint.
             app.UseSwagger();
-
-
 
             // Enable middleware to serve swagger-ui (HTML, JS, CSS, etc.)
             app.UseSwaggerUI();
