@@ -11,3 +11,8 @@ C:\xampp\htdocs\Proyecto\WEBAVANZADA\Semana03\BE.DAL.REPOSITORY\obj\Debug\netcor
 C:\xampp\htdocs\Proyecto\WEBAVANZADA\Semana03\BE.DAL.REPOSITORY\obj\Debug\netcoreapp3.1\BE.DAL.REPOSITORY.pdb
 C:\xampp\htdocs\Proyecto\WEBAVANZADA\Semana03\BE.DAL.REPOSITORY\obj\Debug\netcoreapp3.1\BE.DAL.REPOSITORY.genruntimeconfig.cache
 C:\xampp\htdocs\Proyecto\WEBAVANZADA\Semana03\BE.DAL.REPOSITORY\obj\Debug\netcoreapp3.1\BE.DAL.REPOSITORY.csproj.AssemblyReference.cache
+C:\xampp\htdocs\Proyecto\WEBAVANZADA\Semana03\BE.DAL.REPOSITORY\bin\Debug\netcoreapp3.1\BE.DAL.DO.dll
+C:\xampp\htdocs\Proyecto\WEBAVANZADA\Semana03\BE.DAL.REPOSITORY\bin\Debug\netcoreapp3.1\BE.DAL.EF.dll
+C:\xampp\htdocs\Proyecto\WEBAVANZADA\Semana03\BE.DAL.REPOSITORY\bin\Debug\netcoreapp3.1\BE.DAL.EF.pdb
+C:\xampp\htdocs\Proyecto\WEBAVANZADA\Semana03\BE.DAL.REPOSITORY\bin\Debug\netcoreapp3.1\BE.DAL.DO.pdb
+C:\xampp\htdocs\Proyecto\WEBAVANZADA\Semana03\BE.DAL.REPOSITORY\obj\Debug\netcoreapp3.1\BE.DAL.REPOSITORY.csproj.CopyComplete

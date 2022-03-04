@@ -11,3 +11,10 @@ C:\xampp\htdocs\Proyecto\WEBAVANZADA\Semana03\BE.DAL\obj\Debug\netcoreapp3.1\BE.
 C:\xampp\htdocs\Proyecto\WEBAVANZADA\Semana03\BE.DAL\obj\Debug\netcoreapp3.1\BE.DAL.pdb
 C:\xampp\htdocs\Proyecto\WEBAVANZADA\Semana03\BE.DAL\obj\Debug\netcoreapp3.1\BE.DAL.genruntimeconfig.cache
 C:\xampp\htdocs\Proyecto\WEBAVANZADA\Semana03\BE.DAL\obj\Debug\netcoreapp3.1\BE.DAL.csproj.AssemblyReference.cache
+C:\xampp\htdocs\Proyecto\WEBAVANZADA\Semana03\BE.DAL\bin\Debug\netcoreapp3.1\BE.DAL.DO.dll
+C:\xampp\htdocs\Proyecto\WEBAVANZADA\Semana03\BE.DAL\bin\Debug\netcoreapp3.1\BE.DAL.EF.dll
+C:\xampp\htdocs\Proyecto\WEBAVANZADA\Semana03\BE.DAL\bin\Debug\netcoreapp3.1\BE.DAL.REPOSITORY.dll
+C:\xampp\htdocs\Proyecto\WEBAVANZADA\Semana03\BE.DAL\bin\Debug\netcoreapp3.1\BE.DAL.DO.pdb
+C:\xampp\htdocs\Proyecto\WEBAVANZADA\Semana03\BE.DAL\bin\Debug\netcoreapp3.1\BE.DAL.REPOSITORY.pdb
+C:\xampp\htdocs\Proyecto\WEBAVANZADA\Semana03\BE.DAL\bin\Debug\netcoreapp3.1\BE.DAL.EF.pdb
+C:\xampp\htdocs\Proyecto\WEBAVANZADA\Semana03\BE.DAL\obj\Debug\netcoreapp3.1\BE.DAL.csproj.CopyComplete
