@@ -1,0 +1,94 @@
+﻿@model IEnumerable<FE.Identity.Models.Products>
+
+@{
+    ViewData["Title"] = "Productos";
+}
+
+<h1>Productos</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @*@Html.DisplayNameFor(model => model.ProductName)*@
+                <label class="control-label">Nombre producto</label>
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.QuantityPerUnit)
+            </th>
+            <th>
+                @*@Html.DisplayNameFor(model => model.UnitPrice)*@
+                <label class="control-label">Precio unitario</label>
+            </th>
+            <th>
+                @*@Html.DisplayNameFor(model => model.UnitsInStock)*@
+                <label class="control-label">Unidades en stock</label>
+            </th>
+            <th>
+                @*@Html.DisplayNameFor(model => model.UnitsOnOrder)*@
+                <label class="control-label">Unidades en orden</label>
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ReorderLevel)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Discontinued)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DateDiscontinued)
+            </th>
+            <th>
+                @*@Html.DisplayNameFor(model => model.Category)*@
+                <label class="control-label">Categoria</label>
+            </th>
+            @*<th>
+                @Html.DisplayNameFor(model => model.Supplier)
+            </th>*@
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.ProductName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.QuantityPerUnit)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UnitPrice)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UnitsInStock)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UnitsOnOrder)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ReorderLevel)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Discontinued)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DateDiscontinued)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Category.CategoryName)
+            </td>
+            @*<td>
+                @Html.DisplayFor(modelItem => item.Supplier.CompanyName)
+            </td>*@
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.ProductId">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.ProductId">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.ProductId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

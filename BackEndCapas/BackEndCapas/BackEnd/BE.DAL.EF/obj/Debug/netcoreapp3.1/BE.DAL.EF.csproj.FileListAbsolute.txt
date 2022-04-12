@@ -1,0 +1,32 @@
+C:\Users\denza\Documents\GitHub\PrograAvanzada\BackEndCapas\BackEnd\BE.DAL.EF\bin\Debug\netcoreapp3.1\BE.DAL.EF.deps.json
+C:\Users\denza\Documents\GitHub\PrograAvanzada\BackEndCapas\BackEnd\BE.DAL.EF\bin\Debug\netcoreapp3.1\BE.DAL.EF.runtimeconfig.json
+C:\Users\denza\Documents\GitHub\PrograAvanzada\BackEndCapas\BackEnd\BE.DAL.EF\bin\Debug\netcoreapp3.1\BE.DAL.EF.runtimeconfig.dev.json
+C:\Users\denza\Documents\GitHub\PrograAvanzada\BackEndCapas\BackEnd\BE.DAL.EF\bin\Debug\netcoreapp3.1\BE.DAL.EF.dll
+C:\Users\denza\Documents\GitHub\PrograAvanzada\BackEndCapas\BackEnd\BE.DAL.EF\bin\Debug\netcoreapp3.1\BE.DAL.EF.pdb
+C:\Users\denza\Documents\GitHub\PrograAvanzada\BackEndCapas\BackEnd\BE.DAL.EF\obj\Debug\netcoreapp3.1\BE.DAL.EF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denza\Documents\GitHub\PrograAvanzada\BackEndCapas\BackEnd\BE.DAL.EF\obj\Debug\netcoreapp3.1\BE.DAL.EF.AssemblyInfoInputs.cache
+C:\Users\denza\Documents\GitHub\PrograAvanzada\BackEndCapas\BackEnd\BE.DAL.EF\obj\Debug\netcoreapp3.1\BE.DAL.EF.AssemblyInfo.cs
+C:\Users\denza\Documents\GitHub\PrograAvanzada\BackEndCapas\BackEnd\BE.DAL.EF\obj\Debug\netcoreapp3.1\BE.DAL.EF.csproj.CoreCompileInputs.cache
+C:\Users\denza\Documents\GitHub\PrograAvanzada\BackEndCapas\BackEnd\BE.DAL.EF\obj\Debug\netcoreapp3.1\BE.DAL.EF.dll
+C:\Users\denza\Documents\GitHub\PrograAvanzada\BackEndCapas\BackEnd\BE.DAL.EF\obj\Debug\netcoreapp3.1\BE.DAL.EF.pdb
+C:\Users\denza\Documents\GitHub\PrograAvanzada\BackEndCapas\BackEnd\BE.DAL.EF\obj\Debug\netcoreapp3.1\BE.DAL.EF.genruntimeconfig.cache
+C:\Users\denza\Documents\GitHub\PrograAvanzada\BackEndCapas\BackEnd\BE.DAL.EF\obj\Debug\netcoreapp3.1\BE.DAL.EF.csproj.AssemblyReference.cache
+C:\Users\denza\Documents\GitHub\PrograAvanzada\BackEndCapas\BackEnd\BE.DAL.EF\bin\Debug\netcoreapp3.1\BE.DAL.DO.dll
+C:\Users\denza\Documents\GitHub\PrograAvanzada\BackEndCapas\BackEnd\BE.DAL.EF\bin\Debug\netcoreapp3.1\BE.DAL.DO.pdb
+C:\Users\denza\Documents\GitHub\PrograAvanzada\BackEndCapas\BackEnd\BE.DAL.EF\obj\Debug\netcoreapp3.1\BE.DAL.EF.csproj.CopyComplete
+C:\Users\Carolina Barboza\Desktop\SETIMO CUATRIMESTRE\Programacion avanzada en web\BackEndCapas\BackEndCapas\BackEnd\BE.DAL.EF\bin\Debug\netcoreapp3.1\BE.DAL.EF.deps.json
+C:\Users\Carolina Barboza\Desktop\SETIMO CUATRIMESTRE\Programacion avanzada en web\BackEndCapas\BackEndCapas\BackEnd\BE.DAL.EF\bin\Debug\netcoreapp3.1\BE.DAL.EF.runtimeconfig.json
+C:\Users\Carolina Barboza\Desktop\SETIMO CUATRIMESTRE\Programacion avanzada en web\BackEndCapas\BackEndCapas\BackEnd\BE.DAL.EF\bin\Debug\netcoreapp3.1\BE.DAL.EF.runtimeconfig.dev.json
+C:\Users\Carolina Barboza\Desktop\SETIMO CUATRIMESTRE\Programacion avanzada en web\BackEndCapas\BackEndCapas\BackEnd\BE.DAL.EF\bin\Debug\netcoreapp3.1\BE.DAL.EF.dll
+C:\Users\Carolina Barboza\Desktop\SETIMO CUATRIMESTRE\Programacion avanzada en web\BackEndCapas\BackEndCapas\BackEnd\BE.DAL.EF\bin\Debug\netcoreapp3.1\BE.DAL.EF.pdb
+C:\Users\Carolina Barboza\Desktop\SETIMO CUATRIMESTRE\Programacion avanzada en web\BackEndCapas\BackEndCapas\BackEnd\BE.DAL.EF\bin\Debug\netcoreapp3.1\BE.DAL.DO.dll
+C:\Users\Carolina Barboza\Desktop\SETIMO CUATRIMESTRE\Programacion avanzada en web\BackEndCapas\BackEndCapas\BackEnd\BE.DAL.EF\bin\Debug\netcoreapp3.1\BE.DAL.DO.pdb
+C:\Users\Carolina Barboza\Desktop\SETIMO CUATRIMESTRE\Programacion avanzada en web\BackEndCapas\BackEndCapas\BackEnd\BE.DAL.EF\obj\Debug\netcoreapp3.1\BE.DAL.EF.csproj.AssemblyReference.cache
+C:\Users\Carolina Barboza\Desktop\SETIMO CUATRIMESTRE\Programacion avanzada en web\BackEndCapas\BackEndCapas\BackEnd\BE.DAL.EF\obj\Debug\netcoreapp3.1\BE.DAL.EF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carolina Barboza\Desktop\SETIMO CUATRIMESTRE\Programacion avanzada en web\BackEndCapas\BackEndCapas\BackEnd\BE.DAL.EF\obj\Debug\netcoreapp3.1\BE.DAL.EF.AssemblyInfoInputs.cache
+C:\Users\Carolina Barboza\Desktop\SETIMO CUATRIMESTRE\Programacion avanzada en web\BackEndCapas\BackEndCapas\BackEnd\BE.DAL.EF\obj\Debug\netcoreapp3.1\BE.DAL.EF.AssemblyInfo.cs
+C:\Users\Carolina Barboza\Desktop\SETIMO CUATRIMESTRE\Programacion avanzada en web\BackEndCapas\BackEndCapas\BackEnd\BE.DAL.EF\obj\Debug\netcoreapp3.1\BE.DAL.EF.csproj.CoreCompileInputs.cache
+C:\Users\Carolina Barboza\Desktop\SETIMO CUATRIMESTRE\Programacion avanzada en web\BackEndCapas\BackEndCapas\BackEnd\BE.DAL.EF\obj\Debug\netcoreapp3.1\BE.DAL.EF.csproj.CopyComplete
+C:\Users\Carolina Barboza\Desktop\SETIMO CUATRIMESTRE\Programacion avanzada en web\BackEndCapas\BackEndCapas\BackEnd\BE.DAL.EF\obj\Debug\netcoreapp3.1\BE.DAL.EF.dll
+C:\Users\Carolina Barboza\Desktop\SETIMO CUATRIMESTRE\Programacion avanzada en web\BackEndCapas\BackEndCapas\BackEnd\BE.DAL.EF\obj\Debug\netcoreapp3.1\BE.DAL.EF.pdb
+C:\Users\Carolina Barboza\Desktop\SETIMO CUATRIMESTRE\Programacion avanzada en web\BackEndCapas\BackEndCapas\BackEnd\BE.DAL.EF\obj\Debug\netcoreapp3.1\BE.DAL.EF.genruntimeconfig.cache

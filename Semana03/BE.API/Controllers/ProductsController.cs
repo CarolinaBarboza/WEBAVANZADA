@@ -1,10 +1,13 @@
-﻿using BE.DAL.DO.Objetos;
+﻿using AutoMapper;
+using BE.DAL.DO.Objetos;
 using BE.DAL.EF;
 using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using data = BE.DAL.DO.Objetos;
+using models = BE.API.DataModels;
 
 namespace BE.API.Controllers
 {
@@ -13,23 +16,26 @@ namespace BE.API.Controllers
     public class ProductsController : Controller
     {
         private readonly NDbContext _context;
+        private readonly IMapper _mapper;
 
-        public ProductsController(NDbContext context)
+        public ProductsController(NDbContext context, IMapper mapper)
         {
             _context = context;
+            _mapper = mapper;
         }
 
         // GET: api/Products
         [HttpGet]
-        public async Task<ActionResult<IEnumerable<Products>>> GetProducts()
+        public async Task<ActionResult<IEnumerable<models.Products>>> GetProducts()
         {
             var res = await new BE.BS.Products(_context).GetAllAsync();
-            return res.ToList();
+            List<models.Products> mapaAux = _mapper.Map<IEnumerable<data.Products>, IEnumerable<models.Products>>(res).ToList();
+            return mapaAux;
         }
 
         // GET: api/Products/5
         [HttpGet("{id}")]
-        public async Task<ActionResult<Products>> GetProducts(int id)
+        public async Task<ActionResult<models.Products>> GetProducts(int id)
         {
             var products = await new BE.BS.Products(_context).GetOneByIdAsync(id);
 
@@ -37,26 +43,28 @@ namespace BE.API.Controllers
             {
                 return NotFound();
             }
+            models.Products mapaAux = _mapper.Map<data.Products, models.Products>(products);
 
-            return products;
+            return mapaAux;
         }
 
         // PUT: api/Products/5
         // To protect from overposting attacks, enable the specific properties you want to bind to, for
         // more details, see https://go.microsoft.com/fwlink/?linkid=2123754.
         [HttpPut("{id}")]
-        public async Task<IActionResult> PutProducts(int id, Products products)
+        public async Task<IActionResult> PutProducts(int id, models.Products products)
         {
             if (id != products.ProductId)
             {
                 return BadRequest();
             }
 
-            new BE.BS.Products(_context).Update(products);
+            
 
             try
             {
-                await _context.SaveChangesAsync();
+                data.Products mapaAux = _mapper.Map<models.Products, data.Products>(products);
+                new BE.BS.Products(_context).Update(mapaAux);
             }
             catch (Exception ee)
             {
@@ -77,11 +85,12 @@ namespace BE.API.Controllers
         // To protect from overposting attacks, enable the specific properties you want to bind to, for
         // more details, see https://go.microsoft.com/fwlink/?linkid=2123754.
         [HttpPost]
-        public async Task<ActionResult<Products>> PostProducts(Products products)
+        public async Task<ActionResult<models.Products>> PostProducts(models.Products products)
         {
             try
             {
-                new BE.BS.Products(_context).Insert(products);
+                data.Products mapaAux = _mapper.Map<models.Products, data.Products>(product);
+                new BE.BS.Products(_context).Insert(mapaAux);
             }
             catch (Exception ee)
             {
@@ -94,7 +103,7 @@ namespace BE.API.Controllers
 
         // DELETE: api/Products/5
         [HttpDelete("{id}")]
-        public async Task<ActionResult<Products>> DeleteProducts(int id)
+        public async Task<ActionResult<models.Products>> DeleteProducts(int id)
         {
             var products = await new BE.BS.Products(_context).GetOneByIdAsync(id); 
             if (products == null)
@@ -110,8 +119,8 @@ namespace BE.API.Controllers
             {
                 BadRequest();
             }
-
-            return products;
+            models.Products mapaAux = _mapper.Map<data.Products, models.Products>(products);
+            return mapaAux;
         }
 
         private bool ProductsExists(int id)

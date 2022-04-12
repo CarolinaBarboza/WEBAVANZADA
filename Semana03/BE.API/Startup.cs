@@ -1,3 +1,4 @@
+﻿using AutoMapper;
 using BE.DAL.EF;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
@@ -29,6 +30,17 @@ namespace BE.API
             services.AddDbContext<NDbContext>(options =>
             options.UseSqlServer(
             Configuration.GetConnectionString("GoodConnection")));
+
+////////// INICIO AutoMapper
+
+            var mappingConfig = new MapperConfiguration(mc => {​​​​​
+
+                mc.AddProfile(new MappingProfile());
+
+            }​​​​​); var mapper = mappingConfig.CreateMapper(); services.AddSingleton(mapper);
+
+            ////////// FIN AutoMapper
+
 
             //Register the Swagger generator, defining 1 or more Swagger documents services.AddSwaggerGen();
             services.AddControllers();

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "P3misrUaKPlFjmXfnn4ymfJ0QYjUE2La3S0UImSSN7hlV4wsHpIkuzchSrfZZJSH/gMrR4gsKctMHOIIY9lEdQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Carolina Barboza\\Desktop\\FrontEnd\\FontEnd\\FE\\FE.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Carolina Barboza\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
