@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5eXsR02njSjFlhgu7uJ+eGHUjhHlvaFL4tlBZb9FTn70nmQR26WSgoElqBM9Ae1GT5o+WPyoMMFSac8cJUhBZg==",
+  "success": true,
+  "projectFilePath": "C:\\xampp\\htdocs\\Proyecto\\WEBAVANZADA\\FrontEnd_Quiz02_Semana12_Carolina_Barboza_Corrales\\FrontEnd_Quiz02\\FE\\FE.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Carolina Barboza\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

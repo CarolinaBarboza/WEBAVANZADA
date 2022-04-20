@@ -5748,11 +5748,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Carolina Barboza\\Desktop\\SETIMO CUATRIMESTRE\\Programacion avanzada en web\\BackEndCapas\\BackEndCapas\\BackEnd\\BE.DAL.EF\\BE.DAL.EF.csproj",
+      "projectUniqueName": "C:\\xampp\\htdocs\\Proyecto\\WEBAVANZADA\\BackEndCapas\\BackEndCapas\\BackEnd\\BE.DAL.EF\\BE.DAL.EF.csproj",
       "projectName": "BE.DAL.EF",
-      "projectPath": "C:\\Users\\Carolina Barboza\\Desktop\\SETIMO CUATRIMESTRE\\Programacion avanzada en web\\BackEndCapas\\BackEndCapas\\BackEnd\\BE.DAL.EF\\BE.DAL.EF.csproj",
+      "projectPath": "C:\\xampp\\htdocs\\Proyecto\\WEBAVANZADA\\BackEndCapas\\BackEndCapas\\BackEnd\\BE.DAL.EF\\BE.DAL.EF.csproj",
       "packagesPath": "C:\\Users\\Carolina Barboza\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Carolina Barboza\\Desktop\\SETIMO CUATRIMESTRE\\Programacion avanzada en web\\BackEndCapas\\BackEndCapas\\BackEnd\\BE.DAL.EF\\obj\\",
+      "outputPath": "C:\\xampp\\htdocs\\Proyecto\\WEBAVANZADA\\BackEndCapas\\BackEndCapas\\BackEnd\\BE.DAL.EF\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Carolina Barboza\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5769,8 +5769,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Carolina Barboza\\Desktop\\SETIMO CUATRIMESTRE\\Programacion avanzada en web\\BackEndCapas\\BackEndCapas\\BackEnd\\BE.DAL.DO\\BE.DAL.DO.csproj": {
-              "projectPath": "C:\\Users\\Carolina Barboza\\Desktop\\SETIMO CUATRIMESTRE\\Programacion avanzada en web\\BackEndCapas\\BackEndCapas\\BackEnd\\BE.DAL.DO\\BE.DAL.DO.csproj"
+            "C:\\xampp\\htdocs\\Proyecto\\WEBAVANZADA\\BackEndCapas\\BackEndCapas\\BackEnd\\BE.DAL.DO\\BE.DAL.DO.csproj": {
+              "projectPath": "C:\\xampp\\htdocs\\Proyecto\\WEBAVANZADA\\BackEndCapas\\BackEndCapas\\BackEnd\\BE.DAL.DO\\BE.DAL.DO.csproj"
             }
           }
         }

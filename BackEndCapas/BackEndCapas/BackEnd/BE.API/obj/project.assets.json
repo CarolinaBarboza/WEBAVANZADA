@@ -6077,11 +6077,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Carolina Barboza\\Desktop\\SETIMO CUATRIMESTRE\\Programacion avanzada en web\\BackEndCapas\\BackEndCapas\\BackEnd\\BE.API\\BE.API.csproj",
+      "projectUniqueName": "C:\\xampp\\htdocs\\Proyecto\\WEBAVANZADA\\BackEndCapas\\BackEndCapas\\BackEnd\\BE.API\\BE.API.csproj",
       "projectName": "BE.API",
-      "projectPath": "C:\\Users\\Carolina Barboza\\Desktop\\SETIMO CUATRIMESTRE\\Programacion avanzada en web\\BackEndCapas\\BackEndCapas\\BackEnd\\BE.API\\BE.API.csproj",
+      "projectPath": "C:\\xampp\\htdocs\\Proyecto\\WEBAVANZADA\\BackEndCapas\\BackEndCapas\\BackEnd\\BE.API\\BE.API.csproj",
       "packagesPath": "C:\\Users\\Carolina Barboza\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Carolina Barboza\\Desktop\\SETIMO CUATRIMESTRE\\Programacion avanzada en web\\BackEndCapas\\BackEndCapas\\BackEnd\\BE.API\\obj\\",
+      "outputPath": "C:\\xampp\\htdocs\\Proyecto\\WEBAVANZADA\\BackEndCapas\\BackEndCapas\\BackEnd\\BE.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Carolina Barboza\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6098,11 +6098,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Carolina Barboza\\Desktop\\SETIMO CUATRIMESTRE\\Programacion avanzada en web\\BackEndCapas\\BackEndCapas\\BackEnd\\BE.BS\\BE.BS.csproj": {
-              "projectPath": "C:\\Users\\Carolina Barboza\\Desktop\\SETIMO CUATRIMESTRE\\Programacion avanzada en web\\BackEndCapas\\BackEndCapas\\BackEnd\\BE.BS\\BE.BS.csproj"
+            "C:\\xampp\\htdocs\\Proyecto\\WEBAVANZADA\\BackEndCapas\\BackEndCapas\\BackEnd\\BE.BS\\BE.BS.csproj": {
+              "projectPath": "C:\\xampp\\htdocs\\Proyecto\\WEBAVANZADA\\BackEndCapas\\BackEndCapas\\BackEnd\\BE.BS\\BE.BS.csproj"
             },
-            "C:\\Users\\Carolina Barboza\\Desktop\\SETIMO CUATRIMESTRE\\Programacion avanzada en web\\BackEndCapas\\BackEndCapas\\BackEnd\\BE.DAL.EF\\BE.DAL.EF.csproj": {
-              "projectPath": "C:\\Users\\Carolina Barboza\\Desktop\\SETIMO CUATRIMESTRE\\Programacion avanzada en web\\BackEndCapas\\BackEndCapas\\BackEnd\\BE.DAL.EF\\BE.DAL.EF.csproj"
+            "C:\\xampp\\htdocs\\Proyecto\\WEBAVANZADA\\BackEndCapas\\BackEndCapas\\BackEnd\\BE.DAL.EF\\BE.DAL.EF.csproj": {
+              "projectPath": "C:\\xampp\\htdocs\\Proyecto\\WEBAVANZADA\\BackEndCapas\\BackEndCapas\\BackEnd\\BE.DAL.EF\\BE.DAL.EF.csproj"
             }
           }
         }

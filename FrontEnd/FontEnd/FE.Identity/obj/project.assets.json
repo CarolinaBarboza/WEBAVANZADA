@@ -5703,11 +5703,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Carolina Barboza\\Desktop\\FrontEnd\\FontEnd\\FE.Identity\\FE.Identity.csproj",
+      "projectUniqueName": "C:\\xampp\\htdocs\\Proyecto\\WEBAVANZADA\\FrontEnd\\FontEnd\\FE.Identity\\FE.Identity.csproj",
       "projectName": "FE.Identity",
-      "projectPath": "C:\\Users\\Carolina Barboza\\Desktop\\FrontEnd\\FontEnd\\FE.Identity\\FE.Identity.csproj",
+      "projectPath": "C:\\xampp\\htdocs\\Proyecto\\WEBAVANZADA\\FrontEnd\\FontEnd\\FE.Identity\\FE.Identity.csproj",
       "packagesPath": "C:\\Users\\Carolina Barboza\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Carolina Barboza\\Desktop\\FrontEnd\\FontEnd\\FE.Identity\\obj\\",
+      "outputPath": "C:\\xampp\\htdocs\\Proyecto\\WEBAVANZADA\\FrontEnd\\FontEnd\\FE.Identity\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Carolina Barboza\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0O+9VmzPgxtVAA+8BhQFwU/bG2OJRC1tvfZcvoKF5zEByrq4Xue1SxEdpDkh3DTTJvX3WkZDu9/J3hI36wyJOQ==",
+  "dgSpecHash": "xMgAwr/rNTsmUlClLJTer/9yO5zShvIvMusSvYt0uJKojBYli6AxF+uuq9MPHV6C0LUrZ4qTNuhEKo6NIocTyw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Carolina Barboza\\Desktop\\SETIMO CUATRIMESTRE\\Programacion avanzada en web\\BackEndCapas\\BackEndCapas\\BackEnd\\BE.DAL.DO\\BE.DAL.DO.csproj",
+  "projectFilePath": "C:\\xampp\\htdocs\\Proyecto\\WEBAVANZADA\\BackEndCapas\\BackEndCapas\\BackEnd\\BE.DAL.DO\\BE.DAL.DO.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Carolina Barboza\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Carolina Barboza\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",

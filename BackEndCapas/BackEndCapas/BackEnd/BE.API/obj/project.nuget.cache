@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "h0aKQkySxiL1rgGLFbklSCrpTbgVPeVT4BiCNYtOcl96A4XQ39yHnukGJFFb7Ct5teiJRHVYcH0GLqEJXc2UIw==",
+  "dgSpecHash": "WL0wqPiwvRJHGRQ7efPO52ZdwQ8kUR0A+EQEEBnOl1ZjbHagmfBU8x42h53LTV6fVQbqWGtYIwf77J71DhzJTQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Carolina Barboza\\Desktop\\SETIMO CUATRIMESTRE\\Programacion avanzada en web\\BackEndCapas\\BackEndCapas\\BackEnd\\BE.API\\BE.API.csproj",
+  "projectFilePath": "C:\\xampp\\htdocs\\Proyecto\\WEBAVANZADA\\BackEndCapas\\BackEndCapas\\BackEnd\\BE.API\\BE.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Carolina Barboza\\.nuget\\packages\\automapper\\8.1.1\\automapper.8.1.1.nupkg.sha512",
     "C:\\Users\\Carolina Barboza\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\6.1.1\\automapper.extensions.microsoft.dependencyinjection.6.1.1.nupkg.sha512",

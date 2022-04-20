@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "A6opxEDXfsoNdtA81dH2syA6Y1plugvZwRbBmTJlRjiXH9m+eQaQsOUipKanlNfzMFK4XWCRk+YHC40XGc3gpg==",
+  "dgSpecHash": "4di9kOXd21zAS5vHo3lZXVZAMyJ1jTxejtQR751ultCDgG5ih2Fq1sP4bj01JYwJfdQ2qJ7Nfdc8mp4tLJhWLA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Carolina Barboza\\Desktop\\FrontEnd\\FontEnd\\FE.W\\FE.W.csproj",
+  "projectFilePath": "C:\\xampp\\htdocs\\Proyecto\\WEBAVANZADA\\FrontEnd\\FontEnd\\FE.W\\FE.W.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Carolina Barboza\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\Carolina Barboza\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",

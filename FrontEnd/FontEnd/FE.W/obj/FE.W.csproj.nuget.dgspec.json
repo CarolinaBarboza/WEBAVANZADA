@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Carolina Barboza\\Desktop\\FrontEnd\\FontEnd\\FE.W\\FE.W.csproj": {}
+    "C:\\xampp\\htdocs\\Proyecto\\WEBAVANZADA\\FrontEnd\\FontEnd\\FE.W\\FE.W.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Carolina Barboza\\Desktop\\FrontEnd\\FontEnd\\FE.W\\FE.W.csproj": {
+    "C:\\xampp\\htdocs\\Proyecto\\WEBAVANZADA\\FrontEnd\\FontEnd\\FE.W\\FE.W.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Carolina Barboza\\Desktop\\FrontEnd\\FontEnd\\FE.W\\FE.W.csproj",
+        "projectUniqueName": "C:\\xampp\\htdocs\\Proyecto\\WEBAVANZADA\\FrontEnd\\FontEnd\\FE.W\\FE.W.csproj",
         "projectName": "FE.W",
-        "projectPath": "C:\\Users\\Carolina Barboza\\Desktop\\FrontEnd\\FontEnd\\FE.W\\FE.W.csproj",
+        "projectPath": "C:\\xampp\\htdocs\\Proyecto\\WEBAVANZADA\\FrontEnd\\FontEnd\\FE.W\\FE.W.csproj",
         "packagesPath": "C:\\Users\\Carolina Barboza\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Carolina Barboza\\Desktop\\FrontEnd\\FontEnd\\FE.W\\obj\\",
+        "outputPath": "C:\\xampp\\htdocs\\Proyecto\\WEBAVANZADA\\FrontEnd\\FontEnd\\FE.W\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Carolina Barboza\\AppData\\Roaming\\NuGet\\NuGet.Config",

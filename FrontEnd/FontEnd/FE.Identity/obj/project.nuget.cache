@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "17rUCBXWhNvjWKAYMJo2H3m0Oj32W+K4ZEIGCTlFQzay7SooS/TbdXtx4CV53o4uMCZtE+1wWN+TddAQvipxeA==",
+  "dgSpecHash": "MIb76uJ2DvStHNOfI5+UePDEQ4sykoCpFcYsfSx3BdNQnDwrN+0pmqibSTzcmKZknX7FPXuMNRNP1XbnQUlC/g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Carolina Barboza\\Desktop\\FrontEnd\\FontEnd\\FE.Identity\\FE.Identity.csproj",
+  "projectFilePath": "C:\\xampp\\htdocs\\Proyecto\\WEBAVANZADA\\FrontEnd\\FontEnd\\FE.Identity\\FE.Identity.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Carolina Barboza\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.23\\microsoft.aspnetcore.cryptography.internal.3.1.23.nupkg.sha512",
     "C:\\Users\\Carolina Barboza\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.1.23\\microsoft.aspnetcore.cryptography.keyderivation.3.1.23.nupkg.sha512",

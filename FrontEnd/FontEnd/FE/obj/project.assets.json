@@ -53,11 +53,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Carolina Barboza\\Desktop\\FrontEnd\\FontEnd\\FE\\FE.csproj",
+      "projectUniqueName": "C:\\xampp\\htdocs\\Proyecto\\WEBAVANZADA\\FrontEnd\\FontEnd\\FE\\FE.csproj",
       "projectName": "FE",
-      "projectPath": "C:\\Users\\Carolina Barboza\\Desktop\\FrontEnd\\FontEnd\\FE\\FE.csproj",
+      "projectPath": "C:\\xampp\\htdocs\\Proyecto\\WEBAVANZADA\\FrontEnd\\FontEnd\\FE\\FE.csproj",
       "packagesPath": "C:\\Users\\Carolina Barboza\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Carolina Barboza\\Desktop\\FrontEnd\\FontEnd\\FE\\obj\\",
+      "outputPath": "C:\\xampp\\htdocs\\Proyecto\\WEBAVANZADA\\FrontEnd\\FontEnd\\FE\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Carolina Barboza\\AppData\\Roaming\\NuGet\\NuGet.Config",
